@@ -9,6 +9,8 @@
 
 ## When updating submodule already in project:
 ### run git submodule update --remote
+#### Pulling in Upstream Change
+##### The simplest model of using submodules in a project would be if you were simply consuming a subproject and wanted to get updates from it from time to time but were not actually modifying anything in your checkout. Let’s walk through a simple example there.
 
 ## questions to ask
 - do you need to run git submodule update --init --recursive inside parent submodule or can you run in root of projects
