@@ -10,6 +10,7 @@ git submodule update --init --recursive
 
 ## questions to ask
 - do you need to run git submodule update --init --recursive inside parent submodule or can you run in root of projects
+- git submodules update --remote only gets updates from submodules not the root of project?
   
 ## remove submodule
 To remove a submodule you need to:
