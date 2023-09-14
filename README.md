@@ -2,11 +2,11 @@
 
 # Notes for git commands to manage project with submodules within submodules
 ## When adding new submodule:
-run git submodule add <giturl> [Project Name]
-** note: above will clone project fetch files and folders but will only fetch the folder name of submodules (subsubmodules) not the files
-git submodule update --init --recursive
-** note: will  
-###
+###run git submodule add <giturl> [Project Name]
+####** Note: above will clone project fetch files and folders but will only fetch the folder name of submodules (subsubmodules) not the files
+###git submodule update --init --recursive
+####** Note:  
+
 
 ## questions to ask
 - do you need to run git submodule update --init --recursive inside parent submodule or can you run in root of projects
