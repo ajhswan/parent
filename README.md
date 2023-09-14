@@ -14,6 +14,7 @@
 - do you need to run git submodule update --init --recursive inside parent submodule or can you run in root of projects
 - git submodules update --remote only gets updates from submodules not the root of project?
 - when running git submodule update --remote (ie git fetch > git merge) in root I can see change in project as (new commit) do I need to merge or not?
+- if update is done on local machine inside submodule, how do you push to github
   
 ## remove submodule
 To remove a submodule you need to:
