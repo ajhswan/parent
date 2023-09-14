@@ -5,7 +5,7 @@
 ### run git submodule add [URL] [Project Name]
 #### ** Note: above will clone project fetch files and folders but will only fetch the folder name of submodules (subsubmodules) not the files
 ### git submodule update --init --recursive
-#### ** Note:  
+#### ** Note:  Running just git submodule update will not fetch subsubmodules file for new projects
 
 ## When updating submodule already in project:
 ### run git submodule update --remote
