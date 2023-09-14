@@ -2,7 +2,7 @@
 
 # Notes for git commands to manage project with submodules within submodules
 ## When adding new submodule:
-### run git submodule add [gitURL] [Project Name]
+### run git submodule add [URL] [Project Name]
 #### ** Note: above will clone project fetch files and folders but will only fetch the folder name of submodules (subsubmodules) not the files
 ### git submodule update --init --recursive
 #### ** Note:  
