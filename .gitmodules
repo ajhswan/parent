@@ -1,0 +1,3 @@
+[submodule "parentModule"]
+	path = parentModule
+	url = git@github.com:ajhswan/parentModule.git
