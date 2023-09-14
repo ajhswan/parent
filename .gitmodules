@@ -1,3 +1,6 @@
 [submodule "parentModule"]
 	path = parentModule
 	url = git@github.com:ajhswan/parentModule.git
+[submodule "example-use"]
+	path = example-use
+	url = git@github.com:robocorp/example-use-git-submodule-for-shared-code.git
