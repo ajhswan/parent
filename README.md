@@ -8,6 +8,9 @@ git submodule update --init --recursive
 ** note: will  
 ###
 
+## questions to ask
+- do you need to run git submodule update --init --recursive inside parent submodule or can you run in root of projects
+  
 ## remove submodule
 To remove a submodule you need to:
 
